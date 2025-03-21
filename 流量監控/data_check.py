@@ -166,36 +166,16 @@ if __name__ == '__main__':
     ACCOUNT_CONF = a{
         'account1' :
             {
-                'account' : 'Edwwecr@gmail.com',
-                'password' : 'Yh1(#7t*r2@urD3+8y',
-                'feature' : '老檯子後台域名'
+                'account' : '',
+                'password' : '',
+                'feature' : ''
             },
 
         'account2' :
             {
-                'account' : 'Rdwmnwp@gmail.com',
-                'password' : 'Mn17$rf@r1Yt1%38k',
-                'feature' : '老檯子推廣域名'
-            },
-            
-        'account3' :
-            {
-                'account' : 'Yhrwkkr@gmail.com',
-                'password' : 'Mnw#u1yh9%t2@mr-O',
-                'feature' : '老檯子選服 / 支付域名'
-            },
-
-        'account4' :
-            {
-                'account' : 'v2008@555.com',
-                'password' : 'nfjq9ijnq4iqnl43nads',
-                'feature' : '云支付支付域名用'
-            },
-        'account5' :
-            {
-                'account' : 'v2009@555.com',
-                'password' : 'Hi3qno23JB23miidfsj',
-                'feature' : '老檯子支付域名備用域名'
+                'account' : '',
+                'password' : '',
+                'feature' : ''
             }
     }
 
