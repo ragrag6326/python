@@ -1,0 +1,17 @@
+site1:
+  domain: null
+  ip: 47.47.47.47
+site2:
+  domain:
+  - example.com
+  - example2.com
+  ip: 48.48.48.48
+site3:
+  domain:
+  - example3.com
+  ip: 49.49.49.49
+site4:
+  domain:
+  - example4.site
+  - example5.site
+  ip: 8.111.12.12

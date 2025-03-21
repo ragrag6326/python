@@ -1,0 +1,5 @@
+# 1.短信商 2.台子 3.帳號 4.密碼或token
+#麦讯通 
+麦讯通 name account password
+云信使 name account password 
+麦讯通 name account password
